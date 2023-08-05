@@ -18,4 +18,3 @@ class basicprogram:
 
 s=basicprogram("https://www.guvi.in")
 s.login()
-#python selenium automation-edgebrowser
